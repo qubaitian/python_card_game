@@ -1,0 +1,23 @@
+{
+    "button": {
+        "font": {
+            "name": "GenWanMin2-M",
+            "size": "24",
+            "regular_path": "assets/GenWanMin2-M.ttc"
+        }
+    },
+    "text_box": {
+        "font": {
+            "name": "GenWanMin2-M",
+            "size": "24",
+            "regular_path": "assets/GenWanMin2-M.ttc"
+        }
+    },
+    "text_entry_line": {
+        "font": {
+            "name": "GenWanMin2-M",
+            "size": "24",
+            "regular_path": "assets/GenWanMin2-M.ttc"
+        }
+    }
+}
