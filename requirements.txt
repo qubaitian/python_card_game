@@ -1,0 +1,10 @@
+pygame
+pygame_gui
+pyperclip
+fastapi
+uvicorn
+pynacl
+alembic
+sqlalchemy
+Events
+Faker
